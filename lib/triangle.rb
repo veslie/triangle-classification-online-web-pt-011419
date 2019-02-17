@@ -1,5 +1,6 @@
 class Triangle
-  Triangle.new(2, 2, 2)
+  Triangle.new
+  
 :equilateral`
 
 `:isosceles`
