@@ -1,9 +1,7 @@
 class Triangle
-  Triangle.new
-  
-:equilateral(2, 2, 2)
+  Triangle.new equilateral(2, 2, 2)
 
-:isosceles
+Triangle.new isosceles
 
 :scalene
 
