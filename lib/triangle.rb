@@ -3,7 +3,7 @@ class Triangle
 
 Triangle.new = isosceles(10, 10, 10)
 
-Triangle.new = scalene
+Triangle.new = scalene(3, 4, 4)
 
   end
 end
