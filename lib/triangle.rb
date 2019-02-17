@@ -1,11 +1,11 @@
 class Triangle
   Triangle.new
   
-:equilateral`
+:equilateral(2, 2, 2)
 
-`:isosceles`
+:isosceles
 
-`:scalene`
+:scalene
 
   end
 end
